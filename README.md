@@ -22,16 +22,15 @@
   - I have tried to give a good idea about recursion in this section.
   
   <a href="https://github.com/priyanshty19/Python-DSA/tree/3.Recursion_Questions">3.RECURSION QUESTIONS</a>
-  - I have discussed some important questions in this section.
+  - I have tried some important questions in this section.
   
   <a href="https://github.com/priyanshty19/Python-DSA/tree/4.BigO_Notation">4.BigO NOTATION</a>
   - Big O Notation is a way of describing the performance or efficiency of the code.
   - I have tried to discuss the idea of Big O in this section
   
-<!--   <a href="">5.BigO QUESTIONS</a>
-  -
-  -
-   -->
+  <a href="https://github.com/priyanshty19/Python-DSA/tree/5.BigO_Questions">5.BigO QUESTIONS</a>
+  - I have tried some important question based on Time Complexity in this section.
+  
 <!--   <a href="">6.ARRAYS</a>
   -
   -
