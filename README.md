@@ -28,29 +28,29 @@
   - Big O Notation is a way of describing the performance or efficiency of the code.
   - I have tried to discuss the idea of Big O in this section
   
-  <a href="">5.BigO QUESTIONS</a>
+<!--   <a href="">5.BigO QUESTIONS</a>
   -
   -
-  
-  <a href="">6.ARRAYS</a>
+   -->
+<!--   <a href="">6.ARRAYS</a>
   -
   -
- 
-  <a href="">7.PYTHON LISTS</a>
+  -->
+<!--   <a href="">7.PYTHON LISTS</a>
   -
   -
-  
-  <a href="">8.ARRAYLISTS QUESTIONS</a>
+   -->
+<!--   <a href="">8.ARRAYLISTS QUESTIONS</a>
   -
   -
-  
-  <a href="">9.DICTIONARIES</a>
+   -->
+<!--   <a href="">9.DICTIONARIES</a>
   -
   -
-  
-  <a href="">10.TUPLES</a>
+   -->
+<!--   <a href="">10.TUPLES</a>
   -
   -
-  
+   -->
   
 
