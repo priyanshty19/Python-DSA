@@ -28,10 +28,10 @@
   - For every section I have created a .ipnb file.
   
   
-  ## 1.INTRODUCTION 
+  <a href="https://github.com/priyanshty19/Python-DSA/tree/1.Introduction">1.INTRODUCTION</a>
   - In this section basic content has been explained 
   
-  ## 2.RECURSION
+  2.RECURSION
  
  
 
