@@ -11,7 +11,7 @@
 > ## CURRICULUM
   - This complete repository explains all concepts of Data Structure and Algorithm from basic to advanced.
   - Different Sections have been listed as different **Branches**.
-  - For every section I have created a .ipnb file.
+  - For every section I have created a .ipynb file.
   
   
   <a href="https://github.com/priyanshty19/Python-DSA/tree/1.Introduction">1.INTRODUCTION</a>
