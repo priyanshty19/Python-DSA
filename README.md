@@ -31,10 +31,10 @@
   <a href="https://github.com/priyanshty19/Python-DSA/tree/5.BigO_Questions">5.BigO QUESTIONS</a>
   - I have tried some important question based on Time Complexity in this section.
   
-<!--   <a href="">6.ARRAYS</a>
-  -
-  -
-  -->
+  <a href="https://github.com/priyanshty19/Python-DSA/tree/6.Arrays">6.ARRAYS</a>
+  - I have tried to explain One dimensional and multi dimensional arrays
+  - Also tried few basic practice questions to get a better understanding of arrays
+ 
 <!--   <a href="">7.PYTHON LISTS</a>
   -
   -
