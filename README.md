@@ -35,10 +35,11 @@
   - I have tried to explain One dimensional and multi dimensional arrays
   - Also tried few basic practice questions to get a better understanding of arrays
  
-<!--   <a href="">7.PYTHON LISTS</a>
-  -
-  -
-   -->
+  <a href="https://github.com/priyanshty19/Python-DSA/tree/7.Python_List">7.PYTHON LISTS</a>
+  - I have discussed about lists 
+  - List is a data structure that holds an ordered collection of items
+  - At the end I have also solved a simple quiz based on lists 
+  
 <!--   <a href="">8.ARRAYLISTS QUESTIONS</a>
   -
   -
