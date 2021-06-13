@@ -40,10 +40,9 @@
   - List is a data structure that holds an ordered collection of items
   - At the end I have also solved a simple quiz based on lists 
   
-<!--   <a href="">8.ARRAYLISTS QUESTIONS</a>
-  -
-  -
-   -->
+  <a href="https://github.com/priyanshty19/Python-DSA/tree/8.ArrayList_Questions">8.ARRAYLISTS QUESTIONS</a>
+  - I have tried some important questions based on some important concepts related to Lists and Arrays
+  
 <!--   <a href="">9.DICTIONARIES</a>
   -
   -
