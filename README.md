@@ -43,13 +43,13 @@
   <a href="https://github.com/priyanshty19/Python-DSA/tree/8.ArrayList_Questions">8.ARRAYLISTS QUESTIONS</a>
   - I have tried some important questions based on some important concepts related to Lists and Arrays
   
-<!--   <a href="">9.DICTIONARIES</a>
-  -
-  -
-   -->
-<!--   <a href="">10.TUPLES</a>
-  -
-  -
-   -->
+  <a href="https://github.com/priyanshty19/Python-DSA/tree/9.Dictionaries">9.DICTIONARIES</a>
+  - Discussed about Dictionaries
+  - Tried some basic quiz questions 
+  
+  <a href="https://github.com/priyanshty19/Python-DSA/tree/10.Tuples">10.TUPLES</a>
+  - Discuessed about Tuples
+  - Tried some basic quiz questions 
+  
   
 
