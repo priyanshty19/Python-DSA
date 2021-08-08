@@ -51,5 +51,29 @@
   - Discuessed about Tuples
   - Tried some basic quiz questions 
   
+<!--   <a href="">11.Linked List</a>
+  - 
+  -  
+   -->
   
-
+<!--   <a href="">12.Linked List Questions</a>
+  - 
+  -  
+   -->
+  
+<!--   <a href="">13.Stacks</a>
+  - 
+  -  
+   -->
+<!--   <a href="">14.Queue</a>
+  - 
+  -  
+ -->
+<!--   <a href="">15.Stack and Queue Questions</a>
+  - 
+  -  
+ -->
+<!--   <a href="">16.Tree</a>
+  - 
+  -  
+   -->
